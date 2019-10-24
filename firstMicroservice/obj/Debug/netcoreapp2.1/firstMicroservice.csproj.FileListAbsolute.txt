@@ -1,0 +1,14 @@
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/bin/Debug/netcoreapp2.1/firstMicroservice.deps.json
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/bin/Debug/netcoreapp2.1/firstMicroservice.runtimeconfig.json
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/bin/Debug/netcoreapp2.1/firstMicroservice.runtimeconfig.dev.json
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/bin/Debug/netcoreapp2.1/firstMicroservice.dll
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/bin/Debug/netcoreapp2.1/firstMicroservice.pdb
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/obj/Debug/netcoreapp2.1/firstMicroservice.csprojAssemblyReference.cache
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/obj/Debug/netcoreapp2.1/firstMicroservice.csproj.CoreCompileInputs.cache
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/obj/Debug/netcoreapp2.1/firstMicroservice.RazorAssemblyInfo.cache
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/obj/Debug/netcoreapp2.1/firstMicroservice.RazorAssemblyInfo.cs
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/obj/Debug/netcoreapp2.1/firstMicroservice.AssemblyInfoInputs.cache
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/obj/Debug/netcoreapp2.1/firstMicroservice.AssemblyInfo.cs
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/obj/Debug/netcoreapp2.1/firstMicroservice.RazorTargetAssemblyInfo.cache
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/obj/Debug/netcoreapp2.1/firstMicroservice.dll
+/Users/rexliu/GIT/firstmicroservice/firstMicroservice/obj/Debug/netcoreapp2.1/firstMicroservice.pdb
