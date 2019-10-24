@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    k8s-app: first-microservice
+  name: first-microservice
+  namespace: micro-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      k8s-app: first-microservice
+  template:
+    metadata:
+      labels:
+        k8s-app: first-microservice
+      name: first-microservice
+      namespace: micro-service
+    spec:
+      containers:
+        - name: first-microservice
+          image: "liuchaorexliu/firstmicroservice:v1.0"
+          imagePullPolicy: Always
+          name: first-microservice
+          ports:
+            - containerPort: 80
+              protocol: TCP
