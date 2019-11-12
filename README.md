@@ -11,6 +11,6 @@ docker push liuchaorexliu/firstmicroservice
 
 k8s deploy: 
 cd DeployFile 
-kubectl apploy -f webapp_namespace.yaml
-kubectl apploy -f webapp_deploy.yaml
-kubectl apploy -f webapp_service.yaml
+kubectl apply -f webapp_namespace.yaml
+kubectl apply -f webapp_deploy.yaml
+kubectl apply -f webapp_service.yaml
